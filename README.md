@@ -3,7 +3,9 @@ WetNet: An Ensemble SAR/Optical Deep model for Wetland Mapping
 
 This repository shares the model developed for mapping complex wetlands. The input data consists of multi-temporal images of dual-polarized Sentinel-1 SAR and multi-spectral Sentinel-2 imagery. The architecture of the model is an ensemble of three parallel deep modules, with each module capturing different temporal or spatial features from the inputs. The outputs of these modules are combined to estimate the label corresponding to the wetland class.
 
-
+<p align="center">
+ <img src="WetNet.jpg" width=80%>
+</p>
 
 ## Paper
 Link to the paper: 
