@@ -15,7 +15,7 @@ If you find this work useful, please cite us in your work:
     year = {2021},
     journal = {IEEE transactions on geoscience and remote sensing},
     pages = {1-14},
-    url = {[https://ieeexplore.ieee.org/abstract/document/9576524/](https://ieeexplore.ieee.org/abstract/document/9576524/)},
-    doi = {[10.1109/TGRS.2021.3113856](10.1109/TGRS.2021.3113856)}
+    url = {https://ieeexplore.ieee.org/abstract/document/9576524/},
+    doi = {10.1109/TGRS.2021.3113856}
 }
 ```
